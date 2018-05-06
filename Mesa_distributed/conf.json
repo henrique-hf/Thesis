@@ -1,0 +1,13 @@
+{
+  "model":
+  {
+    "model1":
+    {
+      "aggregators": [1,2]
+    },
+    "model2":
+    {
+      "aggregators": [2,4]
+    }
+  }
+}
